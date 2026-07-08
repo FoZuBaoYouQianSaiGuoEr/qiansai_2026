@@ -1,0 +1,61 @@
+# Keil MDK build outputs
+*.uvguix.*
+*.uvoptx
+*.o
+*.d
+*.axf
+*.hex
+*.build_log.htm
+*.lnp
+*.htm
+*.dep
+*.map
+*.sct
+*.lst
+JLink*
+RTE/
+
+# Compiled object files
+*.o
+*.obj
+*.out
+
+# Debug
+Debug/
+DebugConfig/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temp
+*.tmp
+*.bak
+*.zip
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Build outputs
+build/
+dist/
+release/
+
+# Report files
+*.docx
+*.pdf
+*.pptx
